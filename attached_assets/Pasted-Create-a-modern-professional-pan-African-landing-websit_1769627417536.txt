@@ -1,0 +1,183 @@
+Create a modern, professional, pan-African landing website for an international youth organization named Africa’s Young Leaders Association (AYLA).
+
+This website must feel credible, institutional, and future-oriented, suitable for students, young professionals, academics, policymakers, donors, and global partners across Africa and the diaspora.
+
+BRAND & IDENTITY
+
+Organization Name: Africa’s Young Leaders Association (AYLA)
+
+Motto: “Young Minds. Bold Vision. United Africa.”
+
+Official Logo (use prominently):
+https://i.ibb.co/vC0d1Qrt/307eaf4eff2d.jpg
+
+VISUAL STYLE
+
+Primary color: Gold / African Yellow
+
+Secondary colors: white, charcoal black, deep gray
+
+Accent use should feel bold but elegant, not flashy
+
+Clean NGO / UN-style professionalism
+
+African-inspired but minimal (no clichés)
+
+Rounded cards, soft shadows, clear spacing
+
+Strong typography hierarchy (bold headlines, readable body text)
+
+RESPONSIVENESS & NAVIGATION (IMPORTANT)
+
+Fully responsive (mobile-first)
+
+Desktop: horizontal navigation bar
+
+Mobile:
+
+Hamburger menu
+
+Menu slides in from the LEFT
+
+Smooth animation
+
+Full-height overlay menu
+
+Navigation must collapse cleanly on tablets and phones
+
+SITE STRUCTURE & PAGES
+1. Home
+
+Hero section with bold headline about youth leadership & Africa’s future
+
+Subheadline emphasizing unity, innovation, governance, and impact
+
+Primary CTA: Join the Movement
+
+Secondary CTA: Explore Our Communities
+
+Sections:
+
+About AYLA (short, powerful)
+
+Core Values / Pillars
+
+Academic & Professional Communities
+
+Why Join AYLA
+
+Strong final call-to-action
+
+2. About AYLA
+
+Who we are
+
+Vision & Mission
+
+Pan-African and non-partisan identity
+
+Commitment to ethical leadership, innovation, and unity
+
+3. Programs
+
+Display as professional cards:
+
+Leadership Development
+
+Youth Empowerment & Innovation
+
+Policy, Law & Governance
+
+Education & Capacity Building
+
+Health, Climate & Social Impact
+
+4. Communities
+
+Present as a clean grid of cards:
+
+Computer Science & Technology
+
+Biological & Health Sciences
+
+Business Management & Entrepreneurship
+
+Engineering & Physical Sciences
+
+Economics & Global Finance
+
+Law, Policy & Governance
+
+Communication, Media & Literature
+
+Education & Pedagogy
+
+Behavioural Sciences & Psychology
+
+Each card:
+
+Short professional description
+
+Button: Join Community
+
+5. Membership
+
+Who can join
+
+Benefits of membership
+
+Ethical code & professionalism
+
+CTA: Become a Member
+
+6. Events
+
+Upcoming events
+
+Continental forums, summits, webinars
+
+Placeholder content allowed
+
+7. Contact
+
+Contact form
+
+Email
+
+WhatsApp link
+
+Social media placeholders
+
+FOOTER
+
+AYLA logo
+
+Short mission statement
+
+Quick links
+
+Copyright notice
+
+TECHNICAL CONSTRAINTS
+
+No database
+
+No Supabase / Firebase / authentication
+
+Static site only
+
+Clean semantic structure
+
+Accessible and performance-optimized
+
+FINAL OUTPUT EXPECTATION
+
+Produce a polished, production-ready website that feels like:
+
+a continental institution
+
+a leadership academy
+
+and a pan-African movement
+
+The result must inspire trust, authority, and participation.
