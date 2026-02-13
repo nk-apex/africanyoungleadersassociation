@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { CheckCircle2 } from "lucide-react";
 
 // Unsplash: Individual signing document or handshake
-const headerImage = "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=2632&auto=format&fit=crop";
+const headerImage = "/images/membership-header.jpg";
 
 const benefits = [
   "Access to exclusive mentorship programs",

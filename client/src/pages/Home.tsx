@@ -17,7 +17,7 @@ export default function Home() {
         {/* Unsplash image: Diverse group of young Africans smiling confident */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2532&auto=format&fit=crop"
+            src="/images/hero-african-youth.jpg"
             alt="Young African Leaders" 
             className="w-full h-full object-cover opacity-30"
           />
@@ -71,7 +71,7 @@ export default function Home() {
               {/* Unsplash: Professional meeting or discussion */}
               <div className="rounded-2xl overflow-hidden shadow-2xl relative z-10">
                 <img 
-                  src="https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?q=80&w=2532&auto=format&fit=crop" 
+                  src="/images/about-discussion.jpg" 
                   alt="AYLA discussion" 
                   className="w-full h-auto"
                 />

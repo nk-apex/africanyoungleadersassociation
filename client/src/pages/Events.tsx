@@ -4,7 +4,7 @@ import { Calendar, MapPin, Clock } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 // Unsplash: Conference hall
-const headerImage = "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=2669&auto=format&fit=crop";
+const headerImage = "/images/events-header.jpg";
 
 const events = [
   {
@@ -13,7 +13,7 @@ const events = [
     location: "Kigali, Rwanda",
     time: "09:00 AM - 05:00 PM",
     tag: "Flagship Event",
-    image: "https://images.unsplash.com/photo-1544531586-fde5298cdd40?q=80&w=2670&auto=format&fit=crop"
+    image: "/images/event-summit.jpg"
   },
   {
     title: "Future of Tech in Africa",
@@ -21,7 +21,7 @@ const events = [
     location: "Lagos, Nigeria (Hybrid)",
     time: "02:00 PM - 06:00 PM",
     tag: "Workshop",
-    image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=2670&auto=format&fit=crop"
+    image: "/images/event-tech.jpg"
   },
   {
     title: "Women in Leadership Forum",
@@ -29,7 +29,7 @@ const events = [
     location: "Nairobi, Kenya",
     time: "10:00 AM - 04:00 PM",
     tag: "Networking",
-    image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=2669&auto=format&fit=crop"
+    image: "/images/event-women.jpg"
   }
 ];
 

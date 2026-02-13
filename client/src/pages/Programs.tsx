@@ -3,7 +3,7 @@ import { PageHeader } from "@/components/PageHeader";
 import { BookOpen, Gavel, Handshake, Sprout, HeartPulse } from "lucide-react";
 
 // Unsplash: Workshop or seminar
-const headerImage = "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=2670&auto=format&fit=crop";
+const headerImage = "/images/programs-header.jpg";
 
 const programs = [
   {

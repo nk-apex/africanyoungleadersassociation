@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { PageHeader } from "@/components/PageHeader";
 
 // Unsplash: African map or collaborative work concept
-const headerImage = "https://images.unsplash.com/photo-1467307983825-619715426c70?q=80&w=2577&auto=format&fit=crop";
+const headerImage = "/images/about-header.jpg";
 
 export default function About() {
   return (

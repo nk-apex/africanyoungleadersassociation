@@ -12,7 +12,7 @@ import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "
 import { Mail, Phone, MapPin, Send } from "lucide-react";
 
 // Unsplash: Person typing on phone or laptop
-const headerImage = "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2670&auto=format&fit=crop";
+const headerImage = "/images/contact-header.jpg";
 
 export default function Contact() {
   const { mutate, isPending } = useContactSubmission();

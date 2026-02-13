@@ -3,7 +3,7 @@ import { PageHeader } from "@/components/PageHeader";
 import { Code, Stethoscope, Scale, Briefcase, Calculator, PenTool, Book, BrainCircuit, Cog } from "lucide-react";
 
 // Unsplash: Group of students collaborating
-const headerImage = "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2670&auto=format&fit=crop";
+const headerImage = "/images/communities-header.jpg";
 
 const communities = [
   { name: "Computer Science & IT", icon: Code, desc: "Tech innovators building Africa's digital future." },
